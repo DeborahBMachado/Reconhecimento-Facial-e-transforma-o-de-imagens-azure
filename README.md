@@ -12,7 +12,7 @@ Esse repositório mostra a utilização do recurso do Azure AI Services e o port
 8. Para cada funcionalidade que você utilizar, você deve confirmar que essa funcionalidade demo irá utilizar um pouco do recurso selecionado anteriormente na sua conta do Azure. Dessa forma, irá poder utilizar as ferramentas por amostras e resultados.
 
 # Ferramenta Detectar Rosto
-![image](Inputs/Imagem teste rosto.jpg)
+![image](https://github.com/DeborahBMachado/Reconhecimento-Facial-e-transforma-o-de-imagens-azure/blob/main/Inputs/Imagem%20teste%20rosto.jpg)
 
 
 
