@@ -12,8 +12,19 @@ Esse repositório mostra a utilização do recurso do Azure AI Services e o port
 8. Para cada funcionalidade que você utilizar, você deve confirmar que essa funcionalidade demo irá utilizar um pouco do recurso selecionado anteriormente na sua conta do Azure. Dessa forma, irá poder utilizar as ferramentas por amostras e resultados.
 
 # Ferramenta Detectar Rosto
+1. No portal do Vision Studio desca na tela inicial e selecione a opção de "rosto ou face" e depois clicar no "Try it out" do Detect faces in an image (detectar rosto em uma imagem). Essa função irá detectar se os rostos estão bem visíveis e, caso estejam cobertos de alguma forma, descreve o "mask: true" com o que possivelmente estaria os cobrindo.
+2. Vamos fazer um teste com a imagem abaixo:
+
 ![image](https://github.com/DeborahBMachado/Reconhecimento-Facial-e-transforma-o-de-imagens-azure/blob/main/Inputs/Imagem%20teste%20rosto.jpg)
+
+3. Ao passar pela funcionalidade "Face ou rosto" termos o resultado do mask conforme imagem abaixo:
+
 
 
 
 # Ferramenta Extrair Texto de Imagem
+
+
+
+![image](https://github.com/DeborahBMachado/Reconhecimento-Facial-e-transforma-o-de-imagens-azure/blob/main/Inputs/imagem%20teste%20texto.png)
+
